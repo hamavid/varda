@@ -122,7 +122,7 @@ nav a{
 	#smallbanner figure{margin:0.8em;}
 	#smallbanner figure img{max-width:100%;margin:auto;}
 	header .name img{max-width:130px;max-height:50px;margin:10px 20px 10px 5px;float:right;}
-	.wrapper{margin-top:57px!important;}
+	.wrapper{margin-top:57px!important;padding:1em;}
 	.bignavlinks {display:none;}
     .navbar-bars{display:table!important;}
     #blurb{padding:0.2em;}
