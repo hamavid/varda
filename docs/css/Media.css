@@ -1,0 +1,10 @@
+.home-select{font-weight:normal;font-size:1.2em;}
+.media-select{font-weight:bolder;font-size:1.4em;}
+
+.photos{margin:auto;display:block;}
+.photos img{width:550px;max-width:90%;display:block;margin:auto;padding:2em;}
+
+
+@media only screen and (max-width:499px){
+	.photos img{padding:1.5em 0.5em;}
+}
